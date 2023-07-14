@@ -1,0 +1,12 @@
+C:\Users\Joel Rm\Desktop\PRUEBA PROMART\PruebaPromart\PruebaPromart.DTO\bin\Debug\net6.0\PruebaPromart.DTO.deps.json
+C:\Users\Joel Rm\Desktop\PRUEBA PROMART\PruebaPromart\PruebaPromart.DTO\bin\Debug\net6.0\PruebaPromart.DTO.dll
+C:\Users\Joel Rm\Desktop\PRUEBA PROMART\PruebaPromart\PruebaPromart.DTO\bin\Debug\net6.0\PruebaPromart.DTO.pdb
+C:\Users\Joel Rm\Desktop\PRUEBA PROMART\PruebaPromart\PruebaPromart.DTO\obj\Debug\net6.0\PruebaPromart.DTO.csproj.AssemblyReference.cache
+C:\Users\Joel Rm\Desktop\PRUEBA PROMART\PruebaPromart\PruebaPromart.DTO\obj\Debug\net6.0\PruebaPromart.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Rm\Desktop\PRUEBA PROMART\PruebaPromart\PruebaPromart.DTO\obj\Debug\net6.0\PruebaPromart.DTO.AssemblyInfoInputs.cache
+C:\Users\Joel Rm\Desktop\PRUEBA PROMART\PruebaPromart\PruebaPromart.DTO\obj\Debug\net6.0\PruebaPromart.DTO.AssemblyInfo.cs
+C:\Users\Joel Rm\Desktop\PRUEBA PROMART\PruebaPromart\PruebaPromart.DTO\obj\Debug\net6.0\PruebaPromart.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Joel Rm\Desktop\PRUEBA PROMART\PruebaPromart\PruebaPromart.DTO\obj\Debug\net6.0\PruebaPromart.DTO.dll
+C:\Users\Joel Rm\Desktop\PRUEBA PROMART\PruebaPromart\PruebaPromart.DTO\obj\Debug\net6.0\refint\PruebaPromart.DTO.dll
+C:\Users\Joel Rm\Desktop\PRUEBA PROMART\PruebaPromart\PruebaPromart.DTO\obj\Debug\net6.0\PruebaPromart.DTO.pdb
+C:\Users\Joel Rm\Desktop\PRUEBA PROMART\PruebaPromart\PruebaPromart.DTO\obj\Debug\net6.0\ref\PruebaPromart.DTO.dll

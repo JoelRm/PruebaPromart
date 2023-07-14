@@ -1,0 +1,17 @@
+C:\Users\Joel Rm\Desktop\PRUEBA PROMART\PruebaPromart\PruebaPromart.DataAccess\bin\Debug\net6.0\PruebaPromart.DataAccess.deps.json
+C:\Users\Joel Rm\Desktop\PRUEBA PROMART\PruebaPromart\PruebaPromart.DataAccess\bin\Debug\net6.0\PruebaPromart.DataAccess.runtimeconfig.json
+C:\Users\Joel Rm\Desktop\PRUEBA PROMART\PruebaPromart\PruebaPromart.DataAccess\bin\Debug\net6.0\PruebaPromart.DataAccess.dll
+C:\Users\Joel Rm\Desktop\PRUEBA PROMART\PruebaPromart\PruebaPromart.DataAccess\bin\Debug\net6.0\PruebaPromart.DataAccess.pdb
+C:\Users\Joel Rm\Desktop\PRUEBA PROMART\PruebaPromart\PruebaPromart.DataAccess\bin\Debug\net6.0\PruebaPromart.Entities.dll
+C:\Users\Joel Rm\Desktop\PRUEBA PROMART\PruebaPromart\PruebaPromart.DataAccess\bin\Debug\net6.0\PruebaPromart.Entities.pdb
+C:\Users\Joel Rm\Desktop\PRUEBA PROMART\PruebaPromart\PruebaPromart.DataAccess\obj\Debug\net6.0\PruebaPromart.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Joel Rm\Desktop\PRUEBA PROMART\PruebaPromart\PruebaPromart.DataAccess\obj\Debug\net6.0\PruebaPromart.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Rm\Desktop\PRUEBA PROMART\PruebaPromart\PruebaPromart.DataAccess\obj\Debug\net6.0\PruebaPromart.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Joel Rm\Desktop\PRUEBA PROMART\PruebaPromart\PruebaPromart.DataAccess\obj\Debug\net6.0\PruebaPromart.DataAccess.AssemblyInfo.cs
+C:\Users\Joel Rm\Desktop\PRUEBA PROMART\PruebaPromart\PruebaPromart.DataAccess\obj\Debug\net6.0\PruebaPromart.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Joel Rm\Desktop\PRUEBA PROMART\PruebaPromart\PruebaPromart.DataAccess\obj\Debug\net6.0\PruebaPromart.DataAccess.csproj.CopyComplete
+C:\Users\Joel Rm\Desktop\PRUEBA PROMART\PruebaPromart\PruebaPromart.DataAccess\obj\Debug\net6.0\PruebaPromart.DataAccess.dll
+C:\Users\Joel Rm\Desktop\PRUEBA PROMART\PruebaPromart\PruebaPromart.DataAccess\obj\Debug\net6.0\refint\PruebaPromart.DataAccess.dll
+C:\Users\Joel Rm\Desktop\PRUEBA PROMART\PruebaPromart\PruebaPromart.DataAccess\obj\Debug\net6.0\PruebaPromart.DataAccess.pdb
+C:\Users\Joel Rm\Desktop\PRUEBA PROMART\PruebaPromart\PruebaPromart.DataAccess\obj\Debug\net6.0\PruebaPromart.DataAccess.genruntimeconfig.cache
+C:\Users\Joel Rm\Desktop\PRUEBA PROMART\PruebaPromart\PruebaPromart.DataAccess\obj\Debug\net6.0\ref\PruebaPromart.DataAccess.dll
